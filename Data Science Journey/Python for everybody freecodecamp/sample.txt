@@ -1,0 +1,7 @@
+Hello Python
+
+My name is Anish.
+I am learning Python.
+Python is fun to learn.
+Data Science is my goal.
+I will become a Data Scientist.
