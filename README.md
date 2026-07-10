@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANISH-MOHANAN
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning Data Science and Analysis
 
 
 <!---
